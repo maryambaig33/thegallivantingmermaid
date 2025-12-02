@@ -1,0 +1,7 @@
+{
+  "name": "Dallas Lit: Indie Bookstore Guide",
+  "description": "A modern, AI-enhanced guide to the most charming independent bookstores in Dallas, featuring real-time maps grounding and literary recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
